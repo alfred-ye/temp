@@ -11,3 +11,5 @@ git tracks changes of files
 modify at 0:47
 
 test gitHub desktop
+
+test input chinese message
